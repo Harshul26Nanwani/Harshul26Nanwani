@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1133604495%2Fphoto%2Fhacker-dark-face-using-laptop.jpg%3Fs%3D170667a%26w%3D0%26k%3D20%26c%3DMDUTUKQif_Jdj9qsHkJJ1nGzW7UWIyu3f-X-d8cTIW0%3D&tbnid=wEJiU9pFCitzfM&vet=12ahUKEwibrI2837WAAxXToOkKHUhsBa4QMygVegUIARCUAg..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fhacker-dark-face-using-laptop-gm1133604495-300924557&docid=_6H4LHqDq8TXyM&w=508&h=339&q=hacker%20using%20laptop%20photo%20animated&ved=2ahUKEwibrI2837WAAxXToOkKHUhsBa4QMygVegUIARCUAg)]
+[![MasterHead](https://camo.githubusercontent.com/e3211216180e25832d5d85c1e4fba1a7dbaacb919f361ebe299c84cced4a21e3/68747470733a2f2f692e6962622e636f2f7247514b3731672f706572736f6e616c2d73656375726974792d636865636b6c6973742d362e706e67)]
 <h1 align="center">Hi 👋, I'm Harshul Nanwani</h1>
 <h3 align="center">A passionate Cloud and Security Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
